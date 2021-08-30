@@ -10,6 +10,7 @@ const styles = {
   },
   link: {
     textAlign: 'right',
+    fontSize: '1.5em',
   },
 }
 const Quote = () => {

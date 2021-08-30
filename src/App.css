@@ -41,8 +41,8 @@
 }
 
 .quoteBody {
-  font-size: 1.2em;
-  max-height: 100px;
+  font-size: 1.6em;
+  max-height: 300px;
   overflow: auto;
 }
 .quoteBody::-webkit-scrollbar {
